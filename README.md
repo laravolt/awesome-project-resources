@@ -3,3 +3,4 @@ Kurasi aset pendukung dan contoh sistem informasi terbaik yang bisa mempercepat 
 
 ## Free Background
 - https://loading.io/background/ Gambar latar dengan animasi dalam format SVG/PNG
+- https://www.heropatterns.com/ Seamless pattern, SVG, tanpa animasi
